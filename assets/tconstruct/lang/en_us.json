@@ -1,0 +1,9 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "block.tconstruct.earth_slime_sapling": "Greenheart Seed",
+  "block.tconstruct.sky_slime_sapling": "Skyroot Seed",
+  "block.tconstruct.ender_slime_sapling": "Enderbark Propagule"
+}

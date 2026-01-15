@@ -1,0 +1,13 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "block.minecraft.oak_sapling": "Oak Acorn",
+  "block.minecraft.spruce_sapling": "Spruce Cone",
+  "block.minecraft.birch_sapling": "Birch Catkin",
+  "block.minecraft.jungle_sapling": "Jungle Pod",
+  "block.minecraft.acacia_sapling": "Acacia Seed",
+  "block.minecraft.dark_oak_sapling": "Dark Oak Acorn",
+  "block.minecraft.cherry_sapling": "Cherry Blossom Pit"
+}

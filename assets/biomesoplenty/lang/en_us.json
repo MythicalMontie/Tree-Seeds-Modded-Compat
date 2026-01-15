@@ -1,0 +1,23 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "block.biomesoplenty.origin_sapling": "Origin Acorn",
+  "block.biomesoplenty.flowering_oak_sapling": "Flowering Oak Acorn",
+  "block.biomesoplenty.snowblossom_sapling": "Snowblossom Pit",
+  "block.biomesoplenty.yellow_autumn_sapling": "Yellow Maple Samara",
+  "block.biomesoplenty.orange_autumn_sapling": "Orange Maple Samara",
+  "block.biomesoplenty.rainbow_birch_sapling": "Rainbow Birch Catkin",
+  "block.biomesoplenty.maple_sapling": "Red Maple Samara",
+  "block.biomesoplenty.fir_sapling": "Fir Cone",
+  "block.biomesoplenty.redwood_sapling": "Redwood Cone",
+  "block.biomesoplenty.mahogany_sapling": "Mahogany Pod",
+  "block.biomesoplenty.jacaranda_sapling": "Jacaranda Pod",
+  "block.biomesoplenty.palm_sapling": "Palm Seed",
+  "block.biomesoplenty.willow_sapling": "Willow Catkin",
+  "block.biomesoplenty.dead_sapling": "Dying Acorn",
+  "block.biomesoplenty.magic_sapling": "Magic Poplar Catkin",
+  "block.biomesoplenty.umbran_sapling": "Umbran Cone",
+  "block.biomesoplenty.hellbark_sapling": "Hellbark Seed"
+}

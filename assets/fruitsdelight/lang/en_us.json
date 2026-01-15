@@ -1,0 +1,18 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "block.fruitsdelight.bayberry_sapling": "Bayberry Pit",
+  "block.fruitsdelight.durian_sapling": "Durian Pit",
+  "block.fruitsdelight.fig_sapling": "Fig Seed",
+  "block.fruitsdelight.hawberry_sapling": "Hawberry Pit",
+  "block.fruitsdelight.kiwi_sapling": "Kiwi Seed",
+  "block.fruitsdelight.lychee_sapling": "Lychee Pit",
+  "block.fruitsdelight.mango_sapling": "Mango Pit",
+  "block.fruitsdelight.mangosteen_sapling": "Mangosteen Seed",
+  "block.fruitsdelight.orange_sapling": "Orange Seed",
+  "block.fruitsdelight.peach_sapling": "Peach Pit",
+  "block.fruitsdelight.pear_sapling": "Pear Seed",
+  "block.fruitsdelight.persimmon_sapling": "Persimmon Seed"
+}

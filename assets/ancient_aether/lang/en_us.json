@@ -1,0 +1,11 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "block.ancient_aether.crystal_skyroot_sapling": "Crystal Skyroot Seed",
+  "block.ancient_aether.enchanted_skyroot_sapling": "Enchanted Skyroot Seed",
+  "block.ancient_aether.highsproot_sapling": "Highsproot Cone",
+  "block.ancient_aether.sakura_sapling": "Aether Blossom Pit",
+  "block.ancient_aether.skyroot_pine_sapling": "Skyroot Pine Cone"
+}

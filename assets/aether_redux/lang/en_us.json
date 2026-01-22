@@ -1,0 +1,14 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "block.aether_redux.crystal_fruit_sapling": "White Apple Pip",
+  "block.aether_redux.crystal_sapling": "Crystal Cone",
+  "block.aether_redux.blightwillow_sapling": "Blightwillow Catkin",
+  "block.aether_redux.blighted_skyroot_sapling": "Blighted Skyroot Seed",
+  "block.aether_redux.glacia_sapling": "Glacia Cone",
+  "block.aether_redux.purple_glacia_sapling": "Purple Glacia Cone",
+  "block.aether_redux.gilded_oak_sapling": "Gilded Oak Acorn",
+  "block.aether_redux.fieldsproot_sapling": "Fieldsproot Pit"
+}

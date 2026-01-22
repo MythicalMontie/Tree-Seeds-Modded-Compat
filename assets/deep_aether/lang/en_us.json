@@ -1,0 +1,12 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "block.deep_aether.roseroot_sapling": "Roseroot Seeds",
+  "block.deep_aether.yagroot_sapling": "Yagroot Propagule",
+  "block.deep_aether.cruderoot_sapling": "Cruderoot Cone",
+  "block.deep_aether.conberry_sapling": "Conberry Seed",
+  "block.deep_aether.sunroot_sapling": "Sunroot Seed",
+  "block.deep_aether.blue_roseroot_sapling": "Blue Roseroot Seeds"
+}

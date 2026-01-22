@@ -1,0 +1,8 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "block.aether.skyroot_sapling": "Skyroot Seed",
+  "block.aether.golden_oak_sapling": "Golden Oak Acorn"
+}

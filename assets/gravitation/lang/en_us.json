@@ -1,0 +1,10 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "block.gravitation.aerfin_sapling": "Aerfin Seed",
+  "block.gravitation.beladon_sapling": "Beladon Catkin",
+  "block.gravitation.enchanted_sapling": "Enchanted Tree Seed",
+  "block.gravitation.orange_aerfin_sapling": "Orange Aerfin Seed"
+}

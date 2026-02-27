@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/quark/fiery_blossom_seed"
+    }
+}
